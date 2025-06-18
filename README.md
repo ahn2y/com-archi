@@ -14,5 +14,5 @@
 
 ## 구현율
 1. 메모리 시스템의 액세스 Fail *완료
-2. 신호 처리를 위한 Linear Phase FIR 필터 구현 *코드 구현 완료- 실행 중단 현상 발생
+2. 신호 처리를 위한 Linear Phase FIR 필터 구현 *완료
 3. Self-Modifying Code 구현 *완료
